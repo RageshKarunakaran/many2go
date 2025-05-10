@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /portalhome
+Disallow: /blogs-travelblogs?page=1
+Disallow: /blogs-travelblogs?page=2
+Disallow: /blogs-travelblogs?page=3
+Disallow: /blogs-travelblogs?page=4
+Disallow: /hotelcompleted
+Disallow: /upcomingflight
+Disallow: /flightcompleted
+Disallow: /transfersuser
+Disallow: /ticketsuser
+Disallow: /visauser
+Disallow: /passportuser
+Disallow: /insuranceuser
+Disallow: /login_views
+Disallow: /verify-otp
+Disallow: /send_captcha
+Disallow: /send_captcha2
+
+
+Sitemap: https://www.vacationfeast.com/sitemap.xml
