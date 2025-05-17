@@ -20,4 +20,4 @@ Disallow: /send_captcha
 Disallow: /send_captcha2
 
 
-Sitemap: https://www.vacationfeast.com/sitemap.xml
+Sitemap: sitemap.xml
